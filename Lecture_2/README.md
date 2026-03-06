@@ -33,7 +33,7 @@ for 100 points in x linearly spaced from 0 to 5.
 
 - Download the `data4.dat` file using:
     ```
-    wget https://raw.githubusercontent.com/scarrazza/DL2025/main/Lecture_2/data4.dat
+    wget https://raw.githubusercontent.com/scarrazza/DL2026/main/Lecture_2/data4.dat
     ```
   The file contains 2 columns (x,y) of points.
 
